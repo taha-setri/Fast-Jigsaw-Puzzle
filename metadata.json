@@ -1,0 +1,8 @@
+{
+  "name": "Remix لغز ترتيب الصور المقطعة السريع",
+  "description": "منصة ويب تفاعلية وسريعة لألعاب الألغاز والذكاء: ترتيب الصور المقطعة والأرقام، وتطابق الذاكرة الصورية، وتوصيل الأنابيب والتدفق الذكي بدون تحميل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Cairo', 'Tajawal', system-ui, -apple-system, sans-serif;
+    touch-action: manipulation;
+  }
+}
+
+/* Custom smooth transitions and animations */
+.puzzle-tile {
+  transition: transform 0.18s cubic-bezier(0.2, 0, 0, 1), box-shadow 0.18s ease;
+  user-select: none;
+  -webkit-user-select: none;
+}
